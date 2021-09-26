@@ -1,9 +1,10 @@
  <h2>:wave: Hello there, I am Ishan Singh  </h2>
 <ul>
-  <li>I love JavaScript.</li>
-  <li>Interested in Front end technologies.
-  <li>Learned Back end technology - Core Java.</li>
-  <li>Currently learning Angular.</li>
+ <li>Software Developer @ Appventurez Mobitech Pvt. Ltd.</li>
+  <li>Working as an Angular developer.<li>
+ <li>Acquired the Knowledge of React js.</li>
+  <li>I love JavaScript & ES6.</li>
+ <li>Interested in Front end technologies.</li>
   <li>How to reach me 
     <a href="https://www.linkedin.com/in/ishan-26-singh" target="_blank">LinkedIn</a>,
     <a href="mailto:ishansingh23111@gmail.com" target="_blank">Email</a>
