@@ -9,7 +9,7 @@
    <a href="https://www.linkedin.com/in/ishan-26-singh" target="_blank">LinkedIn</a>,
    <a href="mailto:ishansingh23111@gmail.com" target="_blank">Email</a>
  </li>
-  <li>Visit my <a href="https://myportfolio-19f04.web.app/home" target="_parent">Portfolio</a></li>
+  <li>Visit my <a href="https://myportfolio-19f04.web.app/home" target="_blank">Portfolio</a></li>
 
 <!---
 ishansingh26/ishansingh26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
