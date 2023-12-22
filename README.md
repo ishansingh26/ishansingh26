@@ -1,9 +1,9 @@
- <h2>:wave: Hello there, I am Ishan Singh  </h2>
+ <h2>:wave: Hello there, I am Ishan Singh</h2>
 <ul>
- <li>Software Developer @ Appventurez Mobitech Pvt. Ltd.</li>
- <li>Working as an Angular developer.</li>
- <li>Acquired the Knowledge of React js.</li>
- <li>I love JavaScript & ES6.</li>
+ <li>Software Developer @ Tata Consultancy Services</li>
+ <li>Ex-Software Developer @ Appventurez Mobitech Pvt. Ltd.</li>
+ <li>Working as an React developer.</li>
+ <li>Experienced Front end developer with Angular, JavaScript, ES6, HTML5 and CSS3</li>
  <li>Interested in Front end technologies.</li>
  <li>How to reach me 
    <a href="https://www.linkedin.com/in/ishan-26-singh" target="_blank">LinkedIn</a>,
